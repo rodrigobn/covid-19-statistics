@@ -1,0 +1,5 @@
+# GENERAL SETUP
+PREFERENCES_FILENAME=com.rodrigo.covid_19statistics.prefs
+
+# API BASE URL
+API_DEV_BASE_URL=https://covid-19-data.p.rapidapi.com
